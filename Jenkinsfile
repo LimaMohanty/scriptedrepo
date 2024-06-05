@@ -15,7 +15,7 @@ node{
 
                 stage('execute'){
 
-                                sh 'java HelloWorl'
+                                sh 'java HelloWorld'
 
                 }
 
